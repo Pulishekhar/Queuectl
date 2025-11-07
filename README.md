@@ -69,7 +69,7 @@ backend/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/queuectl-node.git
+git clone https://github.com/Pulishekhar/Queuectl.git
 cd queuectl-node/backend
 
 # 2️⃣ Install dependencies
@@ -249,6 +249,6 @@ Total: 🏁 100 / 100 – Submission Ready
 Pulishekhar Mulinti
 Backend Developer | Node.js Enthusiast | Systems Design Learner
 
-📧 pulishekhar.m@example.com
+📧 pulishekhar6039example.com
 
 🌐 LinkedIn
